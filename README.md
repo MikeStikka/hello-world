@@ -28,10 +28,5 @@
       <button type="button" onclick="window.location.href = 'https://help.wonderfulunion.com/hc/en-us/categories/360000180011-Email-Us'">EMAIL</button>
       <p class="upd">&nbsp;&nbsp;&nbsp;&nbsp; Last updated 05/09/2019</p>
     </footer>  
-    </body>
-  
-  
-  
-  
-  
+
   
